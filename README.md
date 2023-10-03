@@ -5,11 +5,11 @@
 
 - 🔭 I’m currently working on **React.js, Next.js, TypeScript**
 
-- 🌱 I’m currently learning **TypeScript, GraphQL**
+- 🌱 I’m currently learning **Nest.js, GraphQL**
 
 - 👨‍💻 All of my projects are available at [https://github.com/chrahman](https://github.com/chrahman)
 
-- 💬 Ask me about **TypeScript, JavaScript, react**
+- 💬 Ask me about **TypeScript, JavaScript, react.js, next.js**
 
 - 📫 How to reach me **frontend.abdulrehman@gmail.com**
 
