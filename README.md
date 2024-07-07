@@ -15,8 +15,6 @@
 
 - 📄 Know about my experiences [chrahman.github.io](chrahman.github.io)
 
-- ⚡ Fun fact **I think i am expert**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/dev_abdul_rehman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="dev_abdul_rehman" height="30" width="40" /></a>
