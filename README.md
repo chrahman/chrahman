@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **TypeScript, JavaScript, react.js, next.js**
 
-- 📫 How to reach me **frontend.abdulrehman@gmail.com**
+- 📫 How to reach me **chrahman786119@gmail.com**
 
 - 📄 Know about my experiences [chrahman.github.io](chrahman.github.io)
 
