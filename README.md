@@ -3,13 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chrahman&label=Profile%20views&color=0e75b6&style=flat" alt="chrahman" /> </p>
 
-- 🔭 I’m currently working on **React.js, Next.js, TypeScript**
-
-- 🌱 I’m currently learning **Nest.js, GraphQL**
+- 🔭 I’m currently working on **React.js, Next.js, Nest.js, GraphQL, TypeScript**
 
 - 👨‍💻 All of my projects are available at [https://github.com/chrahman](https://github.com/chrahman)
 
-- 💬 Ask me about **TypeScript, JavaScript, react.js, next.js**
+- 💬 Ask me about **TypeScript, JavaScript, React.js, Next.js, Nest.js, GraphQL, Restfull architecture**
 
 - 📫 How to reach me **chrahman786119@gmail.com**
 
