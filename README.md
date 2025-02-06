@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **chrahman786119@gmail.com**
 
-- 📄 Know about my experiences [chrahman.github.io](chrahman.github.io)
+- 📄 Know about my experiences [https://chrahman.github.io](https://chrahman.github.io)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
