@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm chrahman</h1>
-<h3 align="center">A passionate Mern stack developer from Pakistan</h3>
+<h3 align="center">A passionate Senior software engineer from Pakistan</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chrahman&label=Profile%20views&color=0e75b6&style=flat" alt="chrahman" /> </p>
 
@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/chrahman](https://github.com/chrahman)
 
-- 💬 Ask me about **TypeScript, JavaScript, React.js, Next.js, Nest.js, GraphQL, Restfull architecture**
+- 💬 Ask me about **TypeScript, JavaScript, React.js, Next.js, Nest.js, GraphQL, Restful architecture**
 
 - 📫 How to reach me **chrahman786119@gmail.com**
 
